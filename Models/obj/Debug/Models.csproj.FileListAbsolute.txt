@@ -1,0 +1,10 @@
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\bin\Debug\Models.dll.config
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\bin\Debug\Models.dll
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\bin\Debug\Models.pdb
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\bin\Debug\EntityFramework.dll
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\bin\Debug\EntityFramework.xml
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\obj\Debug\Models.dll
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\obj\Debug\Models.pdb
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache

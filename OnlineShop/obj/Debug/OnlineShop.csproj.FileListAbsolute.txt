@@ -31,3 +31,7 @@ D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
 D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
 D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
 D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop\bin\Models.dll
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop\bin\EntityFramework.dll
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop\bin\Models.pdb
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop\bin\EntityFramework.xml

@@ -30,3 +30,7 @@ D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop.Tests\bin\Debug\System.We
 D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop.Tests\obj\Debug\OnlineShop.Tests.csprojResolveAssemblyReference.cache
 D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop.Tests\obj\Debug\OnlineShop.Tests.dll
 D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop.Tests\obj\Debug\OnlineShop.Tests.pdb
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop.Tests\bin\Debug\Models.dll
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop.Tests\bin\Debug\EntityFramework.dll
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop.Tests\bin\Debug\Models.pdb
+D:\ManhLT\Workspaces\DotNet\2021\OnlineShop\OnlineShop.Tests\bin\Debug\EntityFramework.xml
